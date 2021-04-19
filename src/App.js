@@ -161,14 +161,17 @@ The main difference between general partners and limited partners is their respe
         <TabPane tabId="4" style={{border: "1px solid rgb(200, 200, 200)", backgroundColor:"rgb(200, 200, 200)", color:"black", borderRadius:"10px"}}>
           <Row>
             <Col sm="12">
-              <h4 style={{color: "red"}}>SAL</h4>
+              <h4 style={{color: "red"}}>SAL (société anonyme Libanaise)</h4>
               <ul>
-                <li>bla...</li>
+                <li>A société anonyme is a type of business structure that establishes a company as a legal person that can own and transfer property, enter contracts, and be held liable for crimes. One of its key benefits is that it limits the owners’ personal liability for the company’s actions.</li>
+                <li>The S.A. structure also makes it easier to meet a growing business’ capital-funding needs, as numerous investors can contribute large or small amounts of money as shareholders if the company opts for public ownership. The S.A. is thus a key component of a robust capitalist economy.</li>
+                <li>The S.A needs at least 7 associates and capital of 25,000,000 L.L</li>
+                <li>An S.A. is subject to different tax regulations than a sole proprietorship or partnership, and, in the case of a public S.A., different accounting and auditing requirements. In addition, all S.A.s must meet certain basic legal requirements. To be valid, a société anonyme must have articles of incorporation, a board of directors, a managing director or a management board, a supervisory board, a statutory auditor and deputy, a certain amount of capital, and a unique name. It is generally constituted for 99 years’ maximum.</li>
               </ul>
               <hr/>
               <h4 style={{color: "red"}}>Example of SAL:</h4>
                 <p>
-                For example, ...</p> 
+                3 engineers, 1 accountant, and 3 businessman come together to create a new organization specialized in manufacturing hydraulic press. Each one of them participate with 4,000,000 L.L so they all have the same number of shares in the company.</p> 
 
             </Col>
           </Row>
@@ -177,14 +180,19 @@ The main difference between general partners and limited partners is their respe
         <TabPane tabId="5" style={{border: "1px solid rgb(200, 200, 200)", backgroundColor:"rgb(200, 200, 200)", color:"black", borderRadius:"10px"}}>
           <Row>
             <Col sm="12">
-              <h4 style={{color: "red"}}>SARL</h4>
+              <h4 style={{color: "red"}}>SARL (Société à responsabilité limitée)</h4>
               <ul>
-                <li>bla...</li>
+                <li>A private limited liability company (Société à responsabilité limitée – SARL) is a special form of commercial company in that: it combines features that are characteristic of both capital companies (e.g. the limitation of shareholders' liability to the extent of their contribution) and partnerships (e.g. the non-transferability of shares in the company).</li>
+                <li>The SARL is the most common form of incorporation in Luxembourg. Approximately two-thirds of companies in Luxembourg are SARLs.</li>
+                <li>An SARL can have between 2 and 100 shareholders.</li>
+                <li>There is also a form of SARL known as a "single member" SARL. The single member SARL is an exception to the traditional idea of a company in company law, in that it is an SARL that can be set up by a single shareholder. Only 5,000,000 L.L. needed for capital, that makes it the most widespread.</li>
+                <li>There may be only one shareholder at the time of incorporation since it is possible for one shareholder to own all of the shares.</li>
+                <li>Insurance companies, savings companies and investment companies may not be formed as SARLs.</li>
               </ul>
               <hr/>
               <h4 style={{color: "red"}}>Example of SARL:</h4>
                 <p>
-                For example, ...</p> 
+                Jean wants to open a supermarket in his hometown. His capital is 6,000,000 L.L. Most of the shop in his town are also of type SARL.</p> 
 
             </Col>
           </Row>
